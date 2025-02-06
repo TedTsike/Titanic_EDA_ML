@@ -34,7 +34,7 @@ We use Seaborn & Matplotlib to explore survival patterns:
 We implemented Logistic Regression to predict survival:
 Feature Engineering: Categorical encoding, missing value imputation, and feature scaling.
 Model Training: Split data into training (80%) and test (20%).
-Evaluation: Achieved 85% accuracy .
+Evaluation: Achieved 0.80 accuracy .
 🔥 Future Improvements
 🔹 Try different models (Random Forest, SVM, or XGBoost)
 🔹 Optimize hyperparameters using GridSearchCV
