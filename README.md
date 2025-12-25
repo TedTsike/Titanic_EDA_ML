@@ -1,6 +1,7 @@
-# Titanic_EDA_ML# Titanic Survival Prediction - EDA & Machine Learning
+# Titanic_EDA_ML 
+Titanic Survival Prediction - EDA & Machine Learning
 
-##Project Overview
+## Project Overview
 This project explores the famous **Titanic dataset** using **Exploratory Data Analysis (EDA)** and builds a **Logistic Regression model** to predict survival outcomes.  
 It demonstrates key **data science skills** like:
 - **Data Cleaning & Preprocessing**
@@ -30,13 +31,13 @@ We use Seaborn & Matplotlib to explore survival patterns:
 ✔️Feature Correlations
 
 
-### Machine Learning Model
+## Machine Learning Model
 We implemented Logistic Regression to predict survival:
 Feature Engineering: Categorical encoding, missing value imputation, and feature scaling.
 Model Training: Split data into training (80%) and test (20%).
 Evaluation: Achieved 0.80 accuracy .
 
-### Future Improvements
+## Future Improvements
 Try different models (Random Forest, SVM, or XGBoost)
 Optimize hyperparameters using GridSearchCV
 Deploy the model using Streamlit or Flask
